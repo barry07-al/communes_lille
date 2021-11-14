@@ -1,0 +1,1 @@
+pgsql:host= webtp.fil.univ-lille1.fr;user=barryal ;password= 51aDMB2hqAlnLrpUliwcYBjnCYZjl3jz
