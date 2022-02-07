@@ -1,5 +1,5 @@
 # Nom et Prénom :
-BARRY Alpha Oumar et CAMARA Mohamed Groupe 2 Informatique
+BARRY Alpha Oumar
 
 
 # Objectif :
